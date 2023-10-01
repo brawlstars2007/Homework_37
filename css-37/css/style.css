@@ -1,0 +1,35 @@
+body {
+    font-size: 40px;
+    background: #f3f3f6;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+.block{
+    margin: 5vw;
+    height: 50vh;
+    box-shadow: 0 0.5vw 3vw #0615633b;
+    border-radius: 2vw;
+    background: white;
+}
+
+/* ============================= */
+
+.block {
+    overflow: auto;
+    background: url("../img/monkey.jpg") 50% 50% / 10000px 10000px no-repeat, #000 ;
+    
+    /* background-color: #fff; */
+
+    /* background-image: url("../img/tiger.jpg"); */
+    /* background-image: radial-gradient(#faa2a2 40%, #8d8dfd) */
+    /* background-repeat: no-repeat; */
+    /* background-position: 50% 50%; */
+    /* background-attachment: scroll; */
+    /* background-size: 10000px 10000px; */
+
+}
+
